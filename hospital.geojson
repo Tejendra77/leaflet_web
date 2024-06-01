@@ -1,0 +1,2228 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-05-31T15:18:58Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/943246318",
+        "amenity": "hospital",
+        "name": "मनमोहन मेमोरियल अस्पताल",
+        "name:en": "Manmohan Memorial Hospital",
+        "name:ne": "मनमोहन मेमोरियल अस्पताल",
+        "website": "http://www.mmchospital.org.np"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3112441,
+          27.7179394
+        ]
+      },
+      "id": "node/943246318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1497172311",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "सैनिक अस्पताल",
+        "name:en": "Military Hospital",
+        "name:ne": "सैनिक अस्पताल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2913209,
+          27.7114391
+        ]
+      },
+      "id": "node/1497172311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1787063191",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "ग्लोबल अस्पताल",
+        "name:en": "Global hospital",
+        "name:ne": "ग्लोबल अस्पताल",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3330204,
+          27.667072
+        ]
+      },
+      "id": "node/1787063191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1891343745",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "धन्वन्तरी आयुर्वेद अस्पताल तथा अनुसन्धान केन्द्र",
+        "name:en": "Dhanwantari Aryuved Hospital & Research Centre",
+        "name:ne": "धन्वन्तरी आयुर्वेद अस्पताल तथा अनुसन्धान केन्द्र"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3443527,
+          27.7324263
+        ]
+      },
+      "id": "node/1891343745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1898593305",
+        "addr:city": "Kathmandu",
+        "addr:street": "Thirbam Sadak",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "आरोग्य आश्रम",
+        "name:en": "Aarogya Aashram",
+        "name:ne": "आरोग्य आश्रम",
+        "operator": "Dr. Pramod Kumar Gautam",
+        "phone": "014412075",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3304899,
+          27.7177828
+        ]
+      },
+      "id": "node/1898593305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1985458243",
+        "addr:city": "Lainchaur, Kathmandu",
+        "addr:country": "NP",
+        "addr:postcode": "00977",
+        "addr:state": "Central Region",
+        "addr:street": "British-Indian Embassy Rd",
+        "amenity": "hospital",
+        "contact:email": "ciwecclinic@mail.com.np",
+        "description": "Emergency and Ambulance services available along with a variety of other services. 24 hrs/day, 7 days/week.",
+        "fax": "977-1-4412590",
+        "healthcare": "hospital",
+        "name": "CIWEC Hospital",
+        "phone": "977-1-4424111, 4435232",
+        "website": "https://www.ciwec-clinic.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3178811,
+          27.7202714
+        ]
+      },
+      "id": "node/1985458243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2027886569",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "चिरायु राष्ट्रिय अस्पताल तथा चिकित्सा संस्थान",
+        "name:en": "Chirayu National Hospital & Medical Institute",
+        "name:ne": "चिरायु राष्ट्रिय अस्पताल तथा चिकित्सा संस्थान",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3301616,
+          27.6922104
+        ]
+      },
+      "id": "node/2027886569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2027895182",
+        "amenity": "hospital",
+        "name": "इन्फेरलिटी सेन्टर",
+        "name:en": "Infertility Center",
+        "name:ne": "इन्फेरलिटी सेन्टर"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.32902,
+          27.6903846
+        ]
+      },
+      "id": "node/2027895182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2077258831",
+        "amenity": "hospital",
+        "name": "सुब्बा मेडिकल सेन्टर प्रा. लि",
+        "name:en": "Subba Medical Centre Pvt ltd",
+        "name:ne": "सुब्बा मेडिकल सेन्टर प्रा. लि"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3230411,
+          27.7378197
+        ]
+      },
+      "id": "node/2077258831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2121884151",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "कुन्फेन तिब्बती चिकित्सा",
+        "name:en": "Kunphen Tibetian Medicine",
+        "name:ne": "कुन्फेन तिब्बती चिकित्सा"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3092366,
+          27.713065
+        ]
+      },
+      "id": "node/2121884151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2122386462",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "यती अस्पताल",
+        "name:en": "Yeti Hospital",
+        "name:ne": "यती अस्पताल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2824017,
+          27.7024512
+        ]
+      },
+      "id": "node/2122386462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2164877858",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "सार्वजनिक अस्पताल",
+        "name:en": "Public Hospital",
+        "name:ne": "सार्वजनिक अस्पताल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3054073,
+          27.6656582
+        ]
+      },
+      "id": "node/2164877858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2165424701",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "नेपाल पशु अस्पताल",
+        "name:en": "Nepal Veterinary Hospital",
+        "name:ne": "नेपाल पशु अस्पताल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3112844,
+          27.6948215
+        ]
+      },
+      "id": "node/2165424701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2165424708",
+        "amenity": "hospital",
+        "email": "care@bluecross.com.np",
+        "name": "ब्लु क्रस अस्पताल",
+        "name:en": "Blue Cross Hospital",
+        "name:ne": "ब्लु क्रस अस्पताल",
+        "phone": "014262027",
+        "toilets:wheelchair": "no",
+        "website": "https://www.bluecross.com.np/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3152583,
+          27.6937147
+        ]
+      },
+      "id": "node/2165424708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2176750961",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2985867,
+          27.6913755
+        ]
+      },
+      "id": "node/2176750961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2218658273",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "दिव्या संजीवनी अस्पताल",
+        "name:en": "Divya Sanjivani Hospital",
+        "name:ne": "दिव्या संजीवनी अस्पताल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2867623,
+          27.7066149
+        ]
+      },
+      "id": "node/2218658273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2236622338",
+        "addr:city": "Kathmandu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "भारोसा अस्पताल",
+        "name:en": "Bharosa Hospital",
+        "name:ne": "भारोसा अस्पताल",
+        "operator": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3370557,
+          27.6943238
+        ]
+      },
+      "id": "node/2236622338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2282086109",
+        "amenity": "hospital",
+        "building_count": "1",
+        "capacity:beds": "0",
+        "facility:icu": "no",
+        "facility:operating_theatre": "no",
+        "facility:ventilator": "yes",
+        "facility:x-ray": "yes",
+        "name": "नेपाल डायग्नोस्टिक सेन्टर प्रा. लि.",
+        "name:en": "Nepal Diagnostic Center Pvt. Ltd.",
+        "name:ne": "नेपाल डायग्नोस्टिक सेन्टर प्रा. लि.",
+        "opd:patients:count": "10",
+        "operator:type": "private",
+        "personnel:count": "13",
+        "source": "OpenDRI survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3116341,
+          27.7010578
+        ]
+      },
+      "id": "node/2282086109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2352666875",
+        "addr:street": "Guna Kam Dev Marga",
+        "amenity": "hospital",
+        "building_count": "1",
+        "capacity:beds": "0",
+        "facility:icu": "no",
+        "facility:operating_theatre": "no",
+        "facility:ventilator": "no",
+        "facility:x-ray": "no",
+        "name": "Buddha Minimal Access International (MAI) Center",
+        "opd:patients:count": "15",
+        "operator:type": "private",
+        "personnel:count": "10",
+        "source": "OpenDRI survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.304213,
+          27.6980033
+        ]
+      },
+      "id": "node/2352666875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2425005466",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "management_type": "government",
+        "name": "नेपाल प्रहरी अस्पताल",
+        "name:en": "Nepal Police Hospital",
+        "name:ne": "नेपाल प्रहरी अस्पताल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3235715,
+          27.7310242
+        ]
+      },
+      "id": "node/2425005466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2476338392",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3810864,
+          27.7297316
+        ]
+      },
+      "id": "node/2476338392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2684770935",
+        "amenity": "hospital",
+        "name": "मोबाइल पशु चिकित्सा अस्पताल",
+        "name:en": "Mobile Veterinary Hospital",
+        "name:ne": "मोबाइल पशु चिकित्सा अस्पताल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3117739,
+          27.6737417
+        ]
+      },
+      "id": "node/2684770935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2857869822",
+        "amenity": "hospital",
+        "name": "तारिनी स्वास्थ्य केन्द्र",
+        "name:en": "Tarini Health Center",
+        "name:ne": "तारिनी स्वास्थ्य केन्द्र"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3084222,
+          27.7049515
+        ]
+      },
+      "id": "node/2857869822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3047240296",
+        "amenity": "hospital",
+        "email": "netradham.nepal@gmail.com",
+        "internet_access": "wlan",
+        "name": "नेत्रधाम आँखा सेवा केन्द्र",
+        "name:en": "Netradham Eye care center",
+        "name:ne": "नेत्रधाम आँखा सेवा केन्द्र",
+        "phone": "015551345"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3164579,
+          27.6873782
+        ]
+      },
+      "id": "node/3047240296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3074585332",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3475795,
+          27.7174587
+        ]
+      },
+      "id": "node/3074585332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3640853145",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "नेपाल न्यासनल अस्पताल",
+        "name:en": "Nepal National Hospital",
+        "name:ne": "नेपाल न्यासनल अस्पताल",
+        "operator": "Nepal National Hospital",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2821685,
+          27.6947253
+        ]
+      },
+      "id": "node/3640853145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4132097725",
+        "amenity": "hospital",
+        "name": "सिटी अस्पताल",
+        "name:en": "City Hospital",
+        "name:ne": "सिटी अस्पताल",
+        "operator": "XYZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3246923,
+          27.6909765
+        ]
+      },
+      "id": "node/4132097725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4132510093",
+        "amenity": "hospital",
+        "name": "काठमाडौं मेडिकल कलेज",
+        "name:en": "Kathmandu Medical College",
+        "name:ne": "काठमाडौं मेडिकल कलेज",
+        "opening_hours": "24/7",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3275905,
+          27.7015906
+        ]
+      },
+      "id": "node/4132510093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4243043791",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "मध्यपुर अस्पताल",
+        "name:en": "Madhyapur Hospital",
+        "name:ne": "मध्यपुर अस्पताल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3879984,
+          27.6725806
+        ]
+      },
+      "id": "node/4243043791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4393701590",
+        "addr:street": "Arniko Raj Marga",
+        "amenity": "hospital",
+        "name": "संजीवनी हेल्थ केयर सेन्टर",
+        "name:en": "Sanjeevani Health Care Center",
+        "name:ne": "संजीवनी हेल्थ केयर सेन्टर",
+        "opening_hours": "24/7",
+        "phone": "+9779841245023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3520244,
+          27.6755499
+        ]
+      },
+      "id": "node/4393701590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537066892",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "चाइना हस्पिटल (पी) लिमिटेड",
+        "name:en": "China Hospital (P) Ltd.",
+        "name:ne": "चाइना हस्पिटल (पी) लिमिटेड",
+        "opening_hours": "Mo-Su 09:00-17:00",
+        "phone": "01-4482275"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3622164,
+          27.7204629
+        ]
+      },
+      "id": "node/4537066892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4579894969",
+        "addr:city": "Lalitpur",
+        "addr:country": "NP",
+        "amenity": "hospital",
+        "email": "drsbikram@gmail.com",
+        "name": "निदान अस्पताल प्रा.लि.",
+        "name:en": "Nidan Hospital PVT. LTD.",
+        "name:ne": "निदान अस्पताल प्रा.लि.",
+        "phone": "977-1-5531333",
+        "website": "http://www.nidanhospital.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3217511,
+          27.6773339
+        ]
+      },
+      "id": "node/4579894969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4592039989",
+        "addr:street": "Tribhuvan Rajpath",
+        "amenity": "hospital",
+        "email": "apfhospital@gmail.com",
+        "name:en": "Nepal A.P.F. Hospital",
+        "opening_hours": "24/7",
+        "phone": "014315224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.252015,
+          27.6903149
+        ]
+      },
+      "id": "node/4592039989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4599786089",
+        "addr:street": "Ekata Tole",
+        "amenity": "hospital",
+        "internet_access": "wlan",
+        "name": "अल्का अस्पताल प्रा. लि.",
+        "name:en": "Alka Hospital Pvt. Ltd.",
+        "name:ne": "अल्का अस्पताल प्रा. लि.",
+        "opening_hours": "24/7",
+        "phone": "015555555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3096819,
+          27.6698644
+        ]
+      },
+      "id": "node/4599786089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4611193689",
+        "addr:street": "Chunikhel Marg",
+        "amenity": "hospital",
+        "email": "info@karunahospital.com.np",
+        "healthcare": "hospital",
+        "name": "कपन अस्पताल",
+        "name:en": "Kapan Hospital",
+        "name:ne": "कपन अस्पताल",
+        "phone": "015128201",
+        "website": "https://www.karunahospital.com.np/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3602424,
+          27.7347534
+        ]
+      },
+      "id": "node/4611193689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4615993995",
+        "addr:street": "Ropeway Sadak",
+        "amenity": "hospital",
+        "name": "पीपुल्स डेंटल कलेज र अस्पताल",
+        "name:en": "Peoples Dental College & Hospital",
+        "name:ne": "पीपुल्स डेंटल कलेज र अस्पताल",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3090847,
+          27.7190481
+        ]
+      },
+      "id": "node/4615993995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4648504195",
+        "amenity": "hospital",
+        "internet_access": "wlan",
+        "name": "ओम समाज अस्पताल",
+        "name:en": "Om Samaj Hospital",
+        "name:ne": "ओम समाज अस्पताल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2591226,
+          27.6863982
+        ]
+      },
+      "id": "node/4648504195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4748269321",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "स्वाकोन इन्टरनेशनल अस्पताल प्रा. लि.",
+        "name:en": "Swacon International Hospital Private Limited",
+        "name:ne": "स्वाकोन अन्तराष्ट्रिय अस्पताल प्रा. लि.",
+        "phone": "+977 1-4462960"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3364085,
+          27.7042102
+        ]
+      },
+      "id": "node/4748269321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4795380222",
+        "amenity": "hospital",
+        "name": "प्रस्तावित इशान महिला तथा बालबालिका अस्पताल",
+        "name:en": "Proposed Ishan Women and Children Hospital",
+        "name:ne": "प्रस्तावित इशान महिला तथा बालबालिका अस्पताल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3335285,
+          27.7445649
+        ]
+      },
+      "id": "node/4795380222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4795380223",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "पेडिअट्रिक्स",
+        "name:en": "Pediatrics",
+        "name:ne": "पेडिअट्रिक्स"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3306265,
+          27.7365875
+        ]
+      },
+      "id": "node/4795380223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4810801975",
+        "amenity": "hospital",
+        "name": "ग्रान्डी सिटी अस्पताल",
+        "name:en": "Grande City Hospital",
+        "name:ne": "ग्रान्डी सिटी अस्पताल",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3147438,
+          27.711016
+        ]
+      },
+      "id": "node/4810801975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4928572762",
+        "addr:street": "Thimi-Biruwa Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "हाम्रो सहयात्री अस्पताल",
+        "name:en": "Hamro Sahayatri Hospital",
+        "name:ne": "हाम्रो सहयात्री अस्पताल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3535501,
+          27.6760051
+        ]
+      },
+      "id": "node/4928572762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5043184624",
+        "amenity": "hospital",
+        "name": "आयुर्वेदिक",
+        "name:en": "Aayurvedic",
+        "name:ne": "आयुर्वेदिक"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2752829,
+          27.6684119
+        ]
+      },
+      "id": "node/5043184624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5068560173",
+        "amenity": "hospital",
+        "name": "हिमालय उपचार केन्द्र",
+        "name:en": "Himalaya Healing Centre",
+        "name:ne": "हिमालय उपचार केन्द्र"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3706839,
+          27.7291945
+        ]
+      },
+      "id": "node/5068560173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5068574573",
+        "amenity": "hospital",
+        "name": "नेपाल मनमिन अस्पताल",
+        "name:en": "Nepal Manmin Hospital",
+        "name:ne": "नेपाल मनमिन अस्पताल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3336444,
+          27.6630188
+        ]
+      },
+      "id": "node/5068574573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5239936321",
+        "amenity": "hospital",
+        "name": "मानसिक शरण",
+        "name:en": "Mental Asylum",
+        "name:ne": "मानसिक शरण"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3115909,
+          27.6830328
+        ]
+      },
+      "id": "node/5239936321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5308645122",
+        "addr:housenumber": "10",
+        "addr:street": "Madan Bhandari Path",
+        "amenity": "hospital",
+        "email": "letmein.np@gmail.com",
+        "name:en": "Let Me in",
+        "name:ko": "렛미인",
+        "opening_hours": "Su-Fr 10:00-19:00",
+        "phone": "0147801210",
+        "website": "http://let-mein.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3324587,
+          27.6891653
+        ]
+      },
+      "id": "node/5308645122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5358434921",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "बिनायक अस्पताल",
+        "name:en": "Binayak Hospital",
+        "name:ne": "बिनायक अस्पताल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3130213,
+          27.7350965
+        ]
+      },
+      "id": "node/5358434921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5568194823",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "टेकु अस्पताल",
+        "name:en": "Teku Hospital",
+        "name:ne": "टेकु अस्पताल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3064884,
+          27.6946731
+        ]
+      },
+      "id": "node/5568194823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5715696859",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "सुरुची होम केयर",
+        "name:en": "Suruchi Home Care",
+        "name:ne": "सुरुची होम केयर"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3377249,
+          27.6937636
+        ]
+      },
+      "id": "node/5715696859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5961692307",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "दक्षिण एसियाली पोलिक्लिनिक तथा निदान केन्द्र",
+        "name:en": "South Asian Polyclinic and Diagnostic Centre",
+        "name:ne": "दक्षिण एसियाली पोलिक्लिनिक तथा निदान केन्द्र"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3261844,
+          27.7390611
+        ]
+      },
+      "id": "node/5961692307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5961692317",
+        "amenity": "hospital",
+        "name": "मरिई स्टोप्स नेपाल",
+        "name:en": "Marie Stopes Nepal",
+        "name:ne": "मरिई स्टोप्स नेपाल",
+        "toilets:wheelchair": "limited",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3174374,
+          27.7348093
+        ]
+      },
+      "id": "node/5961692317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5966565996",
+        "amenity": "hospital",
+        "name": "वेलनेस हस्पिटल प्रा. लि.",
+        "name:en": "Wellness Hospital Pvt. Ltd.",
+        "name:ne": "वेलनेस हस्पिटल प्रा. लि.",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3378586,
+          27.7424351
+        ]
+      },
+      "id": "node/5966565996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6043144295",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "ह्वावे अन्तर्राष्ट्रिय अस्पताल",
+        "name:en": "Huawei International Hospital",
+        "name:ne": "ह्वावे अन्तर्राष्ट्रिय अस्पताल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3452849,
+          27.7130487
+        ]
+      },
+      "id": "node/6043144295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6048829086",
+        "amenity": "hospital",
+        "name": "काठमाडौं सिटी अस्पताल",
+        "name:en": "Kathmandu City Hospital",
+        "name:ne": "काठमाडौं सिटी अस्पताल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2810043,
+          27.6990905
+        ]
+      },
+      "id": "node/6048829086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6052315070",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "आरोग्य स्वस्थ्य सदन",
+        "name:en": "Aarogya Swasthya Sadan",
+        "name:ne": "आरोग्य स्वस्थ्य सदन",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3118401,
+          27.6736946
+        ]
+      },
+      "id": "node/6052315070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6053557886",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "अस्तङ्गा आयुर्वेद अस्पताल तथा अनुसन्धान केन्द्र प्रा. लि",
+        "name:en": "Astanga Ayurveda Hospital and Research Center Private Limited",
+        "name:ne": "अस्तङ्गा आयुर्वेद अस्पताल तथा अनुसन्धान केन्द्र प्रा. लि"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2827749,
+          27.6926261
+        ]
+      },
+      "id": "node/6053557886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6065425312",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "मध्यपुर अस्पताल ठिमी",
+        "name:en": "Madhyapur Hospital Thimi",
+        "name:ne": "मध्यपुर अस्पताल ठिमी"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3881738,
+          27.6722536
+        ]
+      },
+      "id": "node/6065425312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6119458394",
+        "amenity": "hospital",
+        "name": "युनिभर्सल डेन्टल अस्पताल",
+        "name:en": "Universal Dental Hospital",
+        "name:ne": "युनिभर्सल डेन्टल अस्पताल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.280008,
+          27.6990484
+        ]
+      },
+      "id": "node/6119458394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6212383987",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "महेन्द्र नारायण निधि मेमोरियल अस्पताल",
+        "name:en": "Mahendra Narayan Nidhi Memorial Hospital",
+        "name:ne": "महेन्द्र नारायण निधि मेमोरियल अस्पताल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3253255,
+          27.7375473
+        ]
+      },
+      "id": "node/6212383987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6393788405",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name:en": "72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3507095,
+          27.6736601
+        ]
+      },
+      "id": "node/6393788405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6474357289",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3110858,
+          27.7176724
+        ]
+      },
+      "id": "node/6474357289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6578542186",
+        "addr:street": "Prasuti Griha Marg",
+        "amenity": "hospital",
+        "internet_access": "wlan",
+        "name": "नर्भिक अन्तर्राष्ट्रिय स्वास्थ्य मूल्यांकन केन्द्र",
+        "name:en": "Norvic international centre for health evaluation",
+        "name:ne": "नर्भिक अन्तर्राष्ट्रिय स्वास्थ्य मूल्यांकन केन्द्र",
+        "website": "https://www.norvichospital.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3200625,
+          27.6893068
+        ]
+      },
+      "id": "node/6578542186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6794555925",
+        "addr:city": "Kathmandu",
+        "addr:postcode": "4600",
+        "addr:street": "J.P. Road",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "healthcare:speciality": "dermatology;traditional_chinese_medicine;chinese_medicine;dermatologist",
+        "name": "Family Beauty Parlour and Therapy Centre Pvt. Ltd.",
+        "operator": "Therapist",
+        "operator:type": "private",
+        "phone": "+977 9860469177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3096796,
+          27.7118011
+        ]
+      },
+      "id": "node/6794555925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7076752191",
+        "amenity": "hospital",
+        "name": "गणेश मान सिंह मेमोरियल अस्पताल तथा अनुसन्धान केन्द्र",
+        "name:en": "Ganesh Maan Singh Memorial Hospital and Research Center",
+        "name:ne": "गणेश मान सिंह मेमोरियल अस्पताल र अनुसन्धान केन्द्र",
+        "phone": "015530855"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3188818,
+          27.6614719
+        ]
+      },
+      "id": "node/7076752191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7081616685",
+        "addr:street": "Sanepa Height ,Ring Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "स्टार अस्पताल",
+        "name:en": "Star Hospital",
+        "name:ne": "स्टार अस्पताल",
+        "phone": "015550197"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3028341,
+          27.6816645
+        ]
+      },
+      "id": "node/7081616685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7308290736",
+        "amenity": "hospital",
+        "name": "अन्नपूर्ण न्यूरोलोजिकल इन्स्टिच्युट तथा एलाइड साइन्स",
+        "name:en": "Annapurna Neurological Institute and Allied Sciences",
+        "name:ne": "अन्नपूर्ण न्यूरोलोजिकल इन्स्टिच्युट तथा एलाइड साइन्स",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3215837,
+          27.6948191
+        ]
+      },
+      "id": "node/7308290736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7786124691",
+        "amenity": "hospital",
+        "name": "नेचर केयर अस्पताल",
+        "name:en": "Nature Care Hospital",
+        "name:ne": "नेचर केयर अस्पताल",
+        "operator": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3341445,
+          27.688783
+        ]
+      },
+      "id": "node/7786124691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7812122485",
+        "amenity": "hospital",
+        "name": "मैत्री सामुदायिक अस्पताल",
+        "name:en": "Friendship Community Hospital",
+        "name:ne": "मैत्री सामुदायिक अस्पताल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3451431,
+          27.7268923
+        ]
+      },
+      "id": "node/7812122485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7817067188",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "टेस्ला डायग्नोस्टिक सेन्टर र फार्मेसी",
+        "name:en": "Tesla Diagnostic Centre and Pharmacy",
+        "name:ne": "टेस्ला डायग्नोस्टिक सेन्टर र फार्मेसी"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3306804,
+          27.7268113
+        ]
+      },
+      "id": "node/7817067188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8023127285",
+        "amenity": "hospital",
+        "name": "मेट्रो अस्पताल",
+        "name:en": "Metro Hospital",
+        "name:ne": "मेट्रो अस्पताल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3371345,
+          27.7398175
+        ]
+      },
+      "id": "node/8023127285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8109802122",
+        "addr:street": "Chunikhel Marg",
+        "amenity": "hospital",
+        "email": "info@karunahospital.com.np",
+        "name": "करुणा अस्पताल",
+        "name:en": "Karuna Hospital",
+        "name:ne": "करुणा अस्पताल",
+        "phone": "015128201",
+        "website": "https://www.karunahospital.com.np/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3624523,
+          27.7512928
+        ]
+      },
+      "id": "node/8109802122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8173061117",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "नागरिक सामुदायिक शिक्षण अस्पताल",
+        "name:en": "Nagarik Community Teaching Hospital",
+        "name:ne": "नागरिक सामुदायिक शिक्षण अस्पताल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3749053,
+          27.6735853
+        ]
+      },
+      "id": "node/8173061117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8190684073",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Cutis Care"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.337671,
+          27.6952816
+        ]
+      },
+      "id": "node/8190684073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8401828236",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "प्रसुती गृह",
+        "name:en": "Prasuti Griha",
+        "name:ne": "प्रसुती गृह"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3187788,
+          27.6894511
+        ]
+      },
+      "id": "node/8401828236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8832647902",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "सम्पदा फार्मा/क्लिनिक",
+        "name:en": "Sampada Pharmacy and Clinic",
+        "name:ne": "सम्पदा फार्मा/क्लिनिक"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2864354,
+          27.6881267
+        ]
+      },
+      "id": "node/8832647902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9056740817",
+        "amenity": "hospital",
+        "name": "भिजन पोलिक्लिनिक",
+        "name:en": "Vision Polyclinic",
+        "name:ne": "भिजन पोलिक्लिनिक",
+        "phone": "015100930"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3448619,
+          27.6754331
+        ]
+      },
+      "id": "node/9056740817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9213713419",
+        "addr:city": "Kathmandu",
+        "addr:street": "Bibhuti Janak Marg",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "dental_oral_maxillo_facial_surgery",
+        "internet_access": "yes",
+        "name": "समाज डेन्टल",
+        "name:en": "Samaj Dental",
+        "name:ne": "समाज डेन्टल",
+        "operator": "Samaj Dental",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3369386,
+          27.6910912
+        ]
+      },
+      "id": "node/9213713419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9526113217",
+        "amenity": "hospital",
+        "name": "काठमाडौं जीवन ज्योति अस्पताल",
+        "name:en": "Kathmandu Jeevan Jyoti hospital",
+        "name:ne": "काठमाडौं जीवन ज्योति अस्पताल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3489721,
+          27.7181627
+        ]
+      },
+      "id": "node/9526113217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9528649020",
+        "amenity": "hospital",
+        "name": "All Nepal Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3175665,
+          27.7359758
+        ]
+      },
+      "id": "node/9528649020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9611991113",
+        "addr:city": "Anantalingeshwor",
+        "addr:postcode": "44600",
+        "addr:street": "Balkot-Biruwa Road",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "अव्युदय स्वास्थ्य सेवा केन्द्र",
+        "name:en": "Avyudaya Swasthya Sewa Kendra",
+        "name:ne": "अव्युदय स्वास्थ्य सेवा केन्द्र",
+        "phone": "016638577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3698829,
+          27.661574
+        ]
+      },
+      "id": "node/9611991113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9614642353",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "सूर्यविनायक नगरपालिका हस्पिटल",
+        "name:en": "Suryabinayak Municipality Hospital",
+        "name:ne": "सूर्यविनायक नगरपालिका हस्पिटल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.391938,
+          27.6565102
+        ]
+      },
+      "id": "node/9614642353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9614642371",
+        "addr:city": "Anantalingeshwar",
+        "addr:street": "thimi-Biruwa Rd",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "ब्रोदर हेल्थ केयर एण्ड डाइग्नोस्टिक सेन्टर",
+        "name:en": "Brothers Health Care and Diagnostic Center",
+        "name:ne": "भाइ स्वास्थ्य सेवा तथा निदान केन्द्र",
+        "phone": "9840011873"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3855616,
+          27.6697309
+        ]
+      },
+      "id": "node/9614642371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9648136847",
+        "amenity": "hospital",
+        "name": "कीर्तिपुर सामुदायिक स्वास्थ्य केन्द्र",
+        "name:en": "Kirtipur Samudayik Swastha Kendra",
+        "name:ne": "कीर्तिपुर सामुदायिक स्वास्थ्य केन्द्र"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2812827,
+          27.6734889
+        ]
+      },
+      "id": "node/9648136847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9662478422",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "कीर्तिपुर आँखा अस्पताल र अनुसन्धान केन्द्र",
+        "name:en": "Kirtipur Eye Hospital and research centre",
+        "name:ne": "कीर्तिपुर आँखा अस्पताल र अनुसन्धान केन्द्र"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2841802,
+          27.6767736
+        ]
+      },
+      "id": "node/9662478422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9719638257",
+        "amenity": "hospital",
+        "name": "वत्सल्या प्राकृतिक आईवीएफ, फर्टिलिटी क्लिनिक",
+        "name:en": "Vatsalya Natural IVF, Fertility Clinic",
+        "name:ne": "वत्सल्या प्राकृतिक आईवीएफ, फर्टिलिटी क्लिनिक",
+        "opening_hours": "Mo-Fr, Su 09:30-16:30",
+        "website": "http://www.vatsalya.com.np/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3252763,
+          27.7155843
+        ]
+      },
+      "id": "node/9719638257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9845843806",
+        "addr:city": "Kathmandu",
+        "addr:housenumber": "Golfutar",
+        "addr:postcode": "44607",
+        "addr:street": "Golphutar Sadak",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "dermatology;internal_medicine",
+        "name": "DI Skin Hospital And Referral Center(DISHARC)",
+        "name:en": "DI Skin Hospital And Referral Center(DISHARC)",
+        "name:ne": "डि स्किन अस्पताल र रेफरल सेन्टर (डिसहर्क)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.345195,
+          27.7502369
+        ]
+      },
+      "id": "node/9845843806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9914381748",
+        "amenity": "hospital",
+        "name": "रिदम न्यूरोसाइकियाट्री अस्पताल र अनुसन्धान केन्द्र",
+        "name:en": "Rhythm Neuropsychiatry Hospital & Research Center",
+        "name:ne": "रिदम न्यूरोसाइकियाट्री अस्पताल र अनुसन्धान केन्द्र"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3098021,
+          27.6694472
+        ]
+      },
+      "id": "node/9914381748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9916636691",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "सोमलता पतंजलि आयुर्वेद केन्द्र प्रा.लि",
+        "name:en": "Somtala Patanjali Ayurvedic Center Pvt.Ltd",
+        "name:ne": "सोमलता पतंजलि आयुर्वेद केन्द्र प्रा.लि",
+        "phone": "+977 9860469177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3229192,
+          27.7056935
+        ]
+      },
+      "id": "node/9916636691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9926734918",
+        "amenity": "hospital",
+        "name": "दिर्घजीवन स्वास्थ्य सेवा तथा अनुसन्धान केन्द्र प्रा. लि",
+        "name:en": "Dirgajiwan Health Care And Research Center Pvt.Ltd",
+        "name:ne": "दिर्घजीवन स्वास्थ्य सेवा तथा अनुसन्धान केन्द्र प्रा. लि"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3146971,
+          27.6934255
+        ]
+      },
+      "id": "node/9926734918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9933907318",
+        "amenity": "hospital",
+        "name": "समता अस्पताल",
+        "name:en": "Samata Hospital",
+        "name:ne": "समता अस्पताल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3572093,
+          27.7164886
+        ]
+      },
+      "id": "node/9933907318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9956485661",
+        "amenity": "hospital",
+        "name": "एपेक्स पोलिक्लिनिक एण्ड डाइगोनोस्टिक सेन्टर प्रा. लि",
+        "name:en": "Apex Policlinic and Dygonostic Center Pvt.Ltd",
+        "name:ne": "एपेक्स पोलिक्लिनिक एण्ड डाइगोनोस्टिक सेन्टर प्रा. लि"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3527456,
+          27.6750042
+        ]
+      },
+      "id": "node/9956485661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9956505746",
+        "amenity": "hospital",
+        "name": "काठमाडौँ न्यूरो एण्ड जनरल अस्पताल",
+        "name:en": "Kathamandu Neuro and General Hospital",
+        "name:ne": "काठमाडौँ न्यूरो एण्ड जनरल अस्पताल",
+        "phone": "014233733,4233899",
+        "website": "www.kathamanduneuro.com.np"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3180007,
+          27.705956
+        ]
+      },
+      "id": "node/9956505746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9967126985",
+        "amenity": "hospital",
+        "name": "एड्भान्स ओरल डेन्टल अस्पताल",
+        "name:en": "Advance Oral Dental Hospital",
+        "name:ne": "एड्भान्स ओरल डेन्टल अस्पताल",
+        "phone": "014600202,4600723"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.347324,
+          27.6778355
+        ]
+      },
+      "id": "node/9967126985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9969484880",
+        "amenity": "hospital",
+        "name": "काठमाडौं ईएनटी हस्पिटल प्रा. लि",
+        "name:en": "Kathmandu Ent Hospital Pvt.Ltd",
+        "name:ne": "काठमाडौं ईएनटी हस्पिटल प्रा. लि",
+        "phone": "014245554;4226730"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3184414,
+          27.7033226
+        ]
+      },
+      "id": "node/9969484880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10007887784",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "अल नेपाल अस्पताल",
+        "name:en": "All Nepal Hospital",
+        "name:ne": "अल नेपाल अस्पताल",
+        "phone": "01-4989905, 0989906, 4953031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3177058,
+          27.7359482
+        ]
+      },
+      "id": "node/10007887784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10016451848",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "इशान बाल तथा महिला अस्पताल",
+        "name:en": "Ishan Children and Women's Hospital",
+        "name:ne": "इशान बाल तथा महिला अस्पताल",
+        "phone": "01-4959560, 01-5910947, 01-5910948"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3369164,
+          27.7481329
+        ]
+      },
+      "id": "node/10016451848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10023832445",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "क्रिस्टल डेन्टल अस्पताल",
+        "name:en": "Crystal Dental Hospital",
+        "name:ne": "क्रिस्टल दन्त अस्पताल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3748745,
+          27.6741089
+        ]
+      },
+      "id": "node/10023832445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10024492600",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "नेपाल कोरिया मैत्री अस्पताल",
+        "name:en": "Nepal Korea Friendship Hospital",
+        "name:ne": "नेपाल कोरिया मैत्री अस्पताल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3795337,
+          27.6736997
+        ]
+      },
+      "id": "node/10024492600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10050423448",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "एनआरएन स्वास्थ्य सेवा प्रा. लि.",
+        "name:en": "NRN Health Care Pvt.Ltd.",
+        "name:ne": "एनआरएन स्वास्थ्य सेवा प्रा. लि."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3826788,
+          27.6898674
+        ]
+      },
+      "id": "node/10050423448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10121388641",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "कान्तिपुर अस्पताल",
+        "name:en": "Kantipur Hospital",
+        "name:ne": "कान्तिपुर अस्पताल",
+        "phone": "014111627;014111858",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3452223,
+          27.68588
+        ]
+      },
+      "id": "node/10121388641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10121417227",
+        "amenity": "hospital",
+        "mobile": "9851225495",
+        "name": "Pics Nepal",
+        "phone": "015199735"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3473448,
+          27.6830415
+        ]
+      },
+      "id": "node/10121417227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10204311110",
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3809512,
+          27.7215523
+        ]
+      },
+      "id": "node/10204311110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10214617417",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "जिल्ला आयुर्वेद स्वास्थ्य केन्द्र",
+        "name:en": "District Ayurveda Health Center",
+        "name:ne": "जिल्ला आयुर्वेद स्वास्थ्य केन्द्र"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3491139,
+          27.6974971
+        ]
+      },
+      "id": "node/10214617417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10294835214",
+        "amenity": "hospital",
+        "name": "लेट मी इन",
+        "name:en": "Let Me In",
+        "name:ne": "लेट मी इन"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3338482,
+          27.7372671
+        ]
+      },
+      "id": "node/10294835214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10305102342",
+        "addr:street": "Chabahil Road",
+        "amenity": "hospital",
+        "name": "ओम हस्पिटल एण्ड रिसर्च सेन्टर प्रा. लि",
+        "name:en": "Om Hospital & Research Center Pvt.Ltd",
+        "name:ne": "ओम हस्पिटल एण्ड रिसर्च सेन्टर प्रा. लि"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3448029,
+          27.7214203
+        ]
+      },
+      "id": "node/10305102342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10610495708",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "ओरिसन मेडिकल हल",
+        "name:en": "Orisan Medical Hall",
+        "name:ne": "ओरिसन मेडिकल हल",
+        "opening_hours": "Mo-Su 09:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3789969,
+          27.7071767
+        ]
+      },
+      "id": "node/10610495708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10610495807",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "दिर्गजीवन मेडिकल हल",
+        "name:en": "Dirghajivan Medical Hall",
+        "name:ne": "दिर्गजीवन मेडिकल हल",
+        "opening_hours": "Mo-Su 09:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3790376,
+          27.7067293
+        ]
+      },
+      "id": "node/10610495807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10614867910",
+        "addr:street": "Piple bot",
+        "amenity": "hospital",
+        "name": "आधारभूत स्वास्थ्य केन्द्र",
+        "name:en": "Basic Health Center",
+        "name:ne": "आधारभूत स्वास्थ्य केन्द्र",
+        "opening_hours": "Mo-Su 09:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3793921,
+          27.7071685
+        ]
+      },
+      "id": "node/10614867910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10629351305",
+        "addr:city": "Anantalingeshwar",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "location": "bhaktapur",
+        "name": "मेड स्टार हेल्थ केयर",
+        "name:en": "Medd star heath care",
+        "name:ne": "मेड स्टार हेल्थ केयर",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "operator": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3779141,
+          27.6963905
+        ]
+      },
+      "id": "node/10629351305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10724948065",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Kirtipur Phect Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2737269,
+          27.6825389
+        ]
+      },
+      "id": "node/10724948065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11331070169",
+        "amenity": "hospital",
+        "name:en": "Healthpost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3851812,
+          27.6759697
+        ]
+      },
+      "id": "node/11331070169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11701254293",
+        "amenity": "hospital",
+        "name": "Stupa community hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3512059,
+          27.7203029
+        ]
+      },
+      "id": "node/11701254293"
+    }
+  ]
+}
